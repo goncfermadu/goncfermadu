@@ -23,12 +23,35 @@
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" align="center">
+
 ### ⊹ ࣪ ˖ sobre mim ˖ ࣪ ⊹
 
 <p>
 ₊˚ʚ 17 anos ɞ˚₊<br/>
 ✿ Apaixonada por animais ✿
 </p>
+
+</td>
+
+<td width="50%" align="center">
+
+<pre>
+⢀⣰⣀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠘⠀⠀⣶⡿⣷⣦⣾⣿⣧
+⠀⠀⠀⠀⠻⣧⠀⠛⠀⡘⠏
+⠀⠀⠀⠀⠀⠉⠳⣦⣮⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠉⠀⠠⡧
+⠀⠀⠀⠠⡥⠄⠀⠀⠀⠀⠀
+</pre>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -98,7 +121,10 @@
   ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა &nbsp; obrigada por visitar meu perfil! &nbsp; ૮ ˶ˆ ﻌ ˆ˶ ა
 </p>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=goncfermadu&label=visitinhas&color=FF8DC7&style=flat-square" />
 
-<img src="flores.png"  >
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F57BAB&height=100&section=footer" />
+
 </div>
