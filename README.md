@@ -91,23 +91,10 @@ Desenvolvimento web, banco de dados e criação de aplicações.
 
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS&color=F57BAB&style=for-the-badge">
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F57BAB&height=100&section=footer">
 
-✦ Obrigada por visitar meu perfil! ✦
-
-</div>
-
-
-</div>
-
-<div align="center">
-
-✦ Obrigado por visitar meu perfil! ✦
+### ✦ Obrigada por visitar meu perfil! ✦
 
 </div>
