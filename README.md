@@ -5,7 +5,7 @@
 <br/>
 
 <p>
-  💻 &nbsp;<em>Estudante de Desenvolvimento de Sistemas ≽^• ˕ • ྀི≼</em> <br/>
+  💻 &nbsp;<em>Desenvolvimento de Sistemas iniciante ≽^• ˕ • ྀི≼</em> <br/>
   🌸 &nbsp;
 </p>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -42,7 +42,29 @@
 
 </div>
 
+<br/><br/>
+
+<div align="center">
+
+### ✦ Estatísticas do GitHub ✦
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goncfermadu&bg_color=0D1117&color=FF8DC7&line=FF8DC7&point=FFFFFF&area=true&hide_border=true" 
+     alt="Atividade de goncfermadu no GitHub" />
+
 <br/>
+
+### ✦ foco atual ✦
+
+🌸 Desenvolvimento Web  
+♡ Frontend  
+୨୧ Backend  
+🐍 Python  
+✦ Git  
+💗 Projetos pessoais
+
+</div>
+
+<br/><br/>
 
 <div align="center">
 
