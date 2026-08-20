@@ -98,6 +98,24 @@
 <img src="https://img.shields.io/badge/GitHub-FF8DC7?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-FFC4E1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
+<br><br>
+
+<div align="center">
+
+## ୨୧₊˚ GitHub ˚₊୨୧
+
+<img src="https://github-readme-stats.vercel.app/api?username=goncfermadu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF8DC7&icon_color=FFB6D9&text_color=FFD6E8&ring_color=FF8DC7&rank_icon=github" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncfermadu&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8DC7&text_color=FFD6E8" width="38%">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goncfermadu&hide_border=true&background=0D1117&ring=FF8DC7&fire=FFB6D9&currStreakLabel=FF8DC7&sideLabels=FFD6E8&dates=FFFFFF" width="60%">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goncfermadu&bg_color=0D1117&color=FF8DC7&line=FF8DC7&point=FFFFFF&area=true&hide_border=true" width="95%">
+
 </div>
 
 
