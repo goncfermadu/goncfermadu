@@ -1,12 +1,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=500&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Oii%2C+eu+sou+a+Maria!+%E2%8B%86%E2%82%8A%E2%9C%A7;%F0%9D%9C%97%F0%9D%9C%9A+%E2%82%8A+%E2%8A%B9+bem-vindo(a)+ao+meu+cantinho+%E2%99%A1" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=500&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Oii%2C+eu+sou+a+Maria!+%E2%8B%86%E2%82%8A%E2%9C%A7;%F0%9D%9C%97%F0%9D%9C%9A+%E2%82%8A+%E2%8A%B9+bem-vindo+ao+meu+perfil+%E2%99%A1" alt="Header" />
 
 <br/>
 
 <p>
-  💻 &nbsp;<em>Estudante de Desenvolvimento de Sistemas</em> <br/>
+  💻 &nbsp;<em>Estudante de Desenvolvimento de Sistemas ≽^• ˕ • ྀི≼ </em> <br/>
   🌸 &nbsp;
 </p>
 
@@ -48,31 +48,30 @@
 </div>
 
 <br/>
-<div align="center">
 
-<img src="https://quickchart.io/chart?c={type:'line',data:{labels:['HTML','CSS','JavaScript','Python','SQL','Flutter','Arduino'],datasets:[{label:'Projetos e estudos 💗',data:[8,7,6,9,4,3,5],borderColor:'%23FF8DC7',backgroundColor:'%23FF8DC7',fill:false,tension:0.4,pointRadius:5}]},options:{plugins:{legend:{labels:{color:'%23FF8DC7'}}},scales:{x:{ticks:{color:'%23FF8DC7'}},y:{beginAtZero:true,ticks:{color:'%23FF8DC7'}}}}}" 
-alt="Gráfico das tecnologias que já estudei"
-width="650"/>
-
-</div>
 
 <div align="center">
 
-### 𓆩♡𓆪 ࣪ ˖ vamos conversar? ˖ ࣪ 𓆩♡𓆪
+### 𓆩♡𓆪 ࣪ ˖ Contatos ˖ ࣪ 𓆩♡𓆪
 
 <a href="https://instagram.com/baessowz">
   <img src="https://img.shields.io/badge/Instagram-FFB6D9?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/Discord-FFC4E1?style=for-the-badge&logo=discord&logoColor=white" />
+<a href="https://discord.com/users/SEU_ID">
+  <img src="https://img.shields.io/badge/Discord-FFC4E1?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="mailto:SEU_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFB6D9?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/goncfermadu">
+  <img src="https://img.shields.io/badge/GitHub-FFC4E1?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<p>
-  Instagram: <strong>@goncfermadu</strong>
-  <br/>
-  Discord: <strong>goncfermadu</strong>
-</p>
 
 <div align="center">
 
