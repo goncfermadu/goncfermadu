@@ -1,95 +1,85 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F57BAB&height=180&section=header&text=Maria%20Ferreira&fontSize=40&fontColor=ffffff&animation=fadeIn">
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=500&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Oii%2C+eu+sou+a+Clara!+%E2%8B%86%E2%82%8A%E2%9C%A7;%F0%9D%9C%97%F0%9D%9C%9A+%E2%82%8A+%E2%8A%B9+bem-vindo(a)+ao+meu+cantinho+%E2%99%A1" alt="Header" />
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
+<br/>
 
-# ✦ Maria Ferreira ✦
+<p>
+  💻 &nbsp;<em>Estudante de Desenvolvimento de Sistemas</em> <br/>
+  🌸 &nbsp;
+</p>
 
-### Desenvolvedora Iniciante
+<br/>
 
-`HTML` · `CSS` · `PHP` · `SQL` · `Git` · `GitHub`
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&pause=1200&color=FF8DC7&center=true&vCenter=true&width=400&lines=HTML+%E2%99%A1+CSS+%E2%99%A1+JavaScript+%E2%99%A1+Flutter;aprendendo+algo+novo+todo+dia+%E2%9C%A7;codando+com+muito+carinho+%F0%9F%92%97" alt="Skills typing" />
 
 </div>
 
 ---
 
-## ✦ Sobre mim ✦
-
-Estudante de Desenvolvimento de Sistemas.
-
-Desenvolvimento web, banco de dados e criação de aplicações.
-
----
-
-## ✦ Tecnologias ✦
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-F57BAB?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-F57BAB?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-F57BAB?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-F57BAB?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F57BAB?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-F57BAB?style=for-the-badge&logo=github&logoColor=white">
+### ⊹ ࣪ ˖ sobre mim ˖ ࣪ ⊹
 
 </div>
 
----
+<p align="center">
+₊˚ʚ 17 anos ɞ˚₊<br/>
+✿ Apaixonada por animais ✿<br/>
+</p>
 
-## ✦ Estatísticas do GitHub ✦
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&hide_border=true">
+### ✦ ࣪ ˖ tecnologias ˖ ࣪ ✦
 
-<br>
+<img src="https://img.shields.io/badge/HTML5-FFB6D9?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-FF8DC7?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-FFC4E1?style=for-the-badge&logo=javascript&logoColor=white" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=rose_pine&hide_border=true">
+<br/>
+
+<img src="https://img.shields.io/badge/Flutter-FFB6D9?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-FF8DC7?style=for-the-badge&logo=dart&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/VS_Code-FFC4E1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-FFB6D9?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-FF8DC7?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
----
-
-## ✦ Minha atividade ✦
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=191622&color=F57BAB&line=F57BAB&point=FFFFFF&area=true&hide_border=true">
+### 𓆩♡𓆪 ࣪ ˖ vamos conversar? ˖ ࣪ 𓆩♡𓆪
 
-</div>
-
----
-
-## ✦ Foco atual ✦
-
-`Desenvolvimento Web` · `Frontend` · `Backend` · `PHP` · `SQL` · `Git`
-
----
-
-## ✦ Vamos conversar? ✦
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-F57BAB?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://instagram.com/baessowz">
+  <img src="https://img.shields.io/badge/Instagram-FFB6D9?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-F57BAB?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<img src="https://img.shields.io/badge/Discord-FFC4E1?style=for-the-badge&logo=discord&logoColor=white" />
 
-<a href="https://discord.com/users/SEU_DISCORD_ID">
-<img src="https://img.shields.io/badge/Discord-F57BAB?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+<br/><br/>
+
+<p>
+  Instagram: <strong>@goncfermadu</strong>
+  <br/>
+  Discord: <strong>goncfermadu</strong>
+</p>
+
+<p>
+  ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა &nbsp; obrigada por visitar meu perfil! &nbsp; ૮ ˶ˆ ﻌ ˆ˶ ა
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=mariaclaraminecute-cloud&label=visitinhas&color=FF8DC7&style=flat-square" />
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS&color=F57BAB&style=for-the-badge">
 
 <br><br>
 
