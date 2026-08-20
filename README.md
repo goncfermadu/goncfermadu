@@ -12,7 +12,6 @@
 
 <p>
   ₊˚ʚ 💻 ɞ˚₊ <em>Desenvolvimento de Sistemas iniciante</em><br>
-  ₊˚ʚ 🌷 ɞ˚₊ <em>aprendendo algo novo todos os dias</em><br>
   ₊˚ʚ 🐾 ɞ˚₊ <em>apaixonada por tecnologia e animais</em>
 </p>
 
@@ -24,7 +23,6 @@
 
 <br>
 
-<sub>૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა   welcome to my little corner of GitHub   ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა</sub>
 
 </div>
 
@@ -94,7 +92,6 @@
 
 ## ୨୧₊˚ GitHub ˚₊୨୧
 
-<img src="https://github-readme-stats.vercel.app/api?username=goncfermadu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF8DC7&icon_color=FFB6D9&text_color=FFD6E8&ring_color=FF8DC7&rank_icon=github" width="48%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncfermadu&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8DC7&text_color=FFD6E8" width="38%">
 
