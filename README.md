@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F57BAB&height=180&section=header&text=Maria%20Ferreira&fontSize=40&fontColor=ffffff&animation=fadeIn">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
+
 # ✦ Maria Ferreira ✦
 
-### Desenvolvedor Iniciante
+### Desenvolvedora Iniciante
 
 `HTML` · `CSS` · `PHP` · `SQL` · `Git` · `GitHub`
 
@@ -12,11 +16,9 @@
 
 ## ✦ Sobre mim ✦
 
-Olá! Eu sou a Maria, estudante de Desenvolvimento de Sistemas.
+Estudante de Desenvolvimento de Sistemas.
 
-Estou aprendendo programação e desenvolvimento web, criando projetos para praticar e melhorar minhas habilidades.
-
-Tenho interesse principalmente em desenvolvimento web, banco de dados e criação de aplicações.
+Desenvolvimento web, banco de dados e criação de aplicações.
 
 ---
 
@@ -24,36 +26,14 @@ Tenho interesse principalmente em desenvolvimento web, banco de dados e criaçã
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-F578AB?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-F578AB?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-F578AB?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-F578AB?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F578AB?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-F578AB?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-F57BAB?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-F57BAB?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-F57BAB?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-F57BAB?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F57BAB?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-F57BAB?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
-
----
-
-## ✦ Projetos ✦
-
-### 🐾 PetShop
-
-Projeto desenvolvido para praticar desenvolvimento web, PHP, banco de dados e criação de rotas.
-
-[Ver projeto](https://github.com/SEU_USUARIO/projeto_petshop)
-
-### 🧮 Calculadora IMC
-
-Projeto em PHP desenvolvido para praticar funções, formulários e cálculos.
-
-[Ver projeto](https://github.com/SEU_USUARIO/CalculadoraIMC)
-
-### 🌐 Site com três páginas
-
-Projeto desenvolvido para praticar HTML e criação de páginas conectadas.
-
-[Ver projeto](https://github.com/SEU_USUARIO/site-tres-paginas)
 
 ---
 
@@ -71,6 +51,16 @@ Projeto desenvolvido para praticar HTML e criação de páginas conectadas.
 
 ---
 
+## ✦ Minha atividade ✦
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=191622&color=F57BAB&line=F57BAB&point=FFFFFF&area=true&hide_border=true">
+
+</div>
+
+---
+
 ## ✦ Foco atual ✦
 
 `Desenvolvimento Web` · `Frontend` · `Backend` · `PHP` · `SQL` · `Git`
@@ -82,11 +72,15 @@ Projeto desenvolvido para praticar HTML e criação de páginas conectadas.
 <div align="center">
 
 <a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-F578AB?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-F57BAB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://instagram.com/SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-F578AB?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-F57BAB?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://discord.com/users/SEU_DISCORD_ID">
+<img src="https://img.shields.io/badge/Discord-F57BAB?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </div>
@@ -95,7 +89,20 @@ Projeto desenvolvido para praticar HTML e criação de páginas conectadas.
 
 <div align="center">
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS&color=F578AB&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS&color=F57BAB&style=for-the-badge">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F57BAB&height=100&section=footer">
+
+✦ Obrigada por visitar meu perfil! ✦
+
+</div>
+
 
 </div>
 
