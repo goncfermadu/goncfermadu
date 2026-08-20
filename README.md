@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="cachorro.jpg" width="700">
+<img src="rosa.jpg" width="700">
 
 <br><br>
 
