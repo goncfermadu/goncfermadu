@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="rosa.jpg" width="700">
+<img src="rosa.jpg" width="100%">
 
 <br><br>
-
-<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&pause=1000&color=FF8DC7&center=true&vCenter=true&width=500&lines=%E2%9C%A7%E2%82%8A%E2%8B%86+Oii%2C+eu+sou+a+Maria!+%E2%8B%86%E2%82%8A%E2%9C%A7;%F0%9D%9C%97%F0%9D%9C%9A+%E2%82%8A+%E2%8A%B9+bem-vindo+ao+meu+perfil+%E2%99%A1" alt="Header" />
 
