@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="rosa.jpg" width="100%">
+<img src="rosa.jpg" width="100%" height="200px" style="object-fit: cover; display: block;">
 
 <br><br>
 
