@@ -93,10 +93,6 @@
 ## ୨୧₊˚ GitHub ˚₊୨୧
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncfermadu&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8DC7&text_color=FFD6E8" width="38%">
-
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncfermadu&hide_border=true&background=0D1117&ring=FF8DC7&fire=FFB6D9&currStreakLabel=FF8DC7&sideLabels=FFD6E8&dates=FFFFFF" width="60%">
 
 <br><br>
