@@ -105,3 +105,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F57BAB&height=100&section=footer" />
 
 </div>
+<div align="center">
+
+<img src="flori.jpg" width="100%" height="200px" style="object-fit: cover; display: block;">
+</div>
