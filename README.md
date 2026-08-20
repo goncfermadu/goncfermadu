@@ -34,16 +34,12 @@
 
 ### ✦ ࣪ ˖ tecnologias ˖ ࣪ ✦
 
-<img src="https://img.shields.io/badge/HTML5-FFB6D9?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-FF8DC7?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-FFB6D9?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-FF8DC7?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-FFC4E1?style=for-the-badge&logo=javascript&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Flutter-FFB6D9?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-FF8DC7?style=for-the-badge&logo=dart&logoColor=white" />
-
-<br/>
 
 <img src="https://img.shields.io/badge/VS_Code-FFC4E1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-FFB6D9?style=for-the-badge&logo=git&logoColor=white" />
