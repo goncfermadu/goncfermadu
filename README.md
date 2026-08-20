@@ -98,14 +98,7 @@
   ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა &nbsp; obrigada por visitar meu perfil! &nbsp; ૮ ˶ˆ ﻌ ˆ˶ ა
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=goncfermadu&label=visitinhas&color=FF8DC7&style=flat-square" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F57BAB&height=100&section=footer" />
-
-</div>
 <div align="center">
 
-<img src="flori.jpg" width="100%" height="200px" style="object-fit: cover; display: block;">
+<img src="flori.jpg" width="100%" height="200px" >
 </div>
