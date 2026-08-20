@@ -36,7 +36,6 @@
 
 <img src="https://img.shields.io/badge/HTML-FFB6D9?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-FF8DC7?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-FFC4E1?style=for-the-badge&logo=javascript&logoColor=white" />
 
 <br/>
 
