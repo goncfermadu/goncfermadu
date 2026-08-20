@@ -12,8 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&pause=1200&color=FF8DC7&center=true&vCenter=true&width=400&lines=HTML+%E2%99%A1+CSS+%E2%99%A1+JavaScript+%E2%99%A1+Flutter;aprendendo+algo+novo+todo+dia+%E2%9C%A7;codando+com+muito+carinho+%F0%9F%92%97" alt="Skills typing" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=18&pause=1200&color=FF8DC7&center=true&vCenter=true&width=400&lines=aprendendo+algo+novo+todo+dia+%E2%9C%A7;codando+com+muito+carinho+%F0%9F%92%97;criando+meus+projetos+%F0%9F%8C%B8" alt="Skills typing" />
 
 </div>
 ---
